@@ -16,7 +16,7 @@ PySide6(If you have not installed it.)
 pip install pyside6
 
 Installation2:
-After you placed files in your drive, run Pyside2UicFrontEnd.py(For convinience, use PyinstallerFrontEnd.py to convert the py file to a exe file).
+After you placed files in your drive, run Pyside6UicFrontEnd.py(For convinience, use PyinstallerFrontEnd.py to convert the py file to a exe file).
 Set the path of pyside6-uic.bat or pyside6-uic.exe(i.e. PYTHON_FOLDER/Library/bin/pyside6-uic.bat).
 Choose ui file.
 Push EXEC button to convert ui file to py file.
