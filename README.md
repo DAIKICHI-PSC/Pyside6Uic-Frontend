@@ -12,8 +12,7 @@ Modules need to be installed:
 PySide6
 
 Installation1:
-PySide6(If you have not installed it.)
-pip install pyside6
+If you have not installed PySide6, excute [pip install pyside6] in command prompt.
 
 Installation2:
 After you placed files in your drive, run Pyside6UicFrontEnd.py(For convinience, use PyinstallerFrontEnd.py to convert the py file to a exe file).
