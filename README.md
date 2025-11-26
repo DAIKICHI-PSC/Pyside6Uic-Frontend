@@ -13,7 +13,6 @@ PySide6
 
 Installation1:
 PySide6(If you have not installed it.)
-
 pip install pyside6
 
 Installation2:
