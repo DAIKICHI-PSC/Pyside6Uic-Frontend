@@ -9,7 +9,7 @@ Python Environment:
 Python 3.7
 
 Modules need to be installed:
-PySide2
+PySide6
 
 Installation1:
 PySide6(If you have not installed it.)
